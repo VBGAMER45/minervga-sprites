@@ -1,0 +1,64 @@
+MINERVGA Sprite Library
+=======================
+
+Library Name: MINER-VGASpritesLibrary
+Total Sprites: 54
+Sprite Size: 16x24 pixels
+Format: VGA Mode 12 (4-plane, 16 colors)
+
+Sprite Index:
+-------------
+ 0: Blank
+ 1: BrownBackground
+ 2: Clover
+ 3: Shovel
+ 4: Pick
+ 5: Drill
+ 6: Lantern
+ 7: Bucket
+ 8: Torch
+ 9: Dynamite
+10: Earth-1
+11: Earth-2
+12: Earth-3
+13: Stone
+14: Granite
+15: GroundwaterBarrier
+16: ElevatorShaft
+17: ElevatorCanter
+18: BirdSilhouette
+19: Cactus
+20: Sky
+21: Cloud-Left
+22: Cloud-Right
+23: Whitebrickpattern
+24: Roof-Left
+25: Roof-Center
+26: Roof-Right
+27: Door
+28: Storewheel
+29: Hospital+
+30: Bank$
+31: SaloonDoor
+32: SaloonDrink
+33: HITCHINGPOST
+34: Cloud-Centerstorm
+35: OUTHOUSE
+36: BROTHELSYMBOL
+37: BORDER
+38: ELEVATORBOTTOM
+39: ELEVATORTOPbelowground
+40: ELEVATORTOPaboveground
+41: Spring
+42: Water
+43: Silver
+44: Gold
+45: Platinum
+46: CaveIn
+47: Sandstone
+48: Volcanic
+49: Pump
+50: Condom
+51: Diamond
+52: Ring
+53: HARRELLW.STILES
